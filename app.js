@@ -14,6 +14,7 @@ mongoose
     console.log("Db connected")
     app.listen(port,()=>{
         console.log("My server is running")
+        
     })
   })
 
